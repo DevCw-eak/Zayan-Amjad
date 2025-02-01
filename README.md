@@ -1,2 +1,9 @@
 # Zayan-Amjad
-A txt regarding me
+
+Student of FAST NUCES Lahore, enrolled in BSCS.
+
+Skills:
+
+=> C/C++
+=> HTML/CSS
+=> Java Script
